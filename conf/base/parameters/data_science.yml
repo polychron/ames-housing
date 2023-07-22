@@ -1,0 +1,9 @@
+model_options:
+  test_size: 0.2
+  random_state: 3
+  features:
+    - Lot_Area
+    - Full_Bath
+    - Half_Bath
+    - TotRms_AbvGrd
+    - SalePrice
