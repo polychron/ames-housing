@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is your new Kedro project for the [spaceflights tutorial](https://kedro.readthedocs.io/en/stable/tutorial/spaceflights_tutorial.html), which was generated using `Kedro 0.18.11`.
+This is your new Kedro project, which was generated using `Kedro 0.18.11`.
 
 Take a look at the [Kedro documentation](https://kedro.readthedocs.io) to get started.
 
